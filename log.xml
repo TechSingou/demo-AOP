@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-30T11:37:29.137828800Z</date>
+  <millis>1690717049137</millis>
+  <nanos>828800</nanos>
+  <sequence>0</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>avant</method>
+  <thread>1</thread>
+  <message>------------------------------------------------------------</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:29.157833700Z</date>
+  <millis>1690717049157</millis>
+  <nanos>833700</nanos>
+  <sequence>1</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>avant</method>
+  <thread>1</thread>
+  <message>Avant l'exécution de la methode void metier.MetierBanqueImpl.addCompte(Compte)</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:29.157833700Z</date>
+  <millis>1690717049157</millis>
+  <nanos>833700</nanos>
+  <sequence>2</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>pres</method>
+  <thread>1</thread>
+  <message>Après l'exécution de la methode void metier.MetierBanqueImpl.addCompte(Compte)</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:29.157833700Z</date>
+  <millis>1690717049157</millis>
+  <nanos>833700</nanos>
+  <sequence>3</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>pres</method>
+  <thread>1</thread>
+  <message>Durrée d'exécution de la méthode 20</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:29.158829100Z</date>
+  <millis>1690717049158</millis>
+  <nanos>829100</nanos>
+  <sequence>4</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>pres</method>
+  <thread>1</thread>
+  <message>------------------------------------------------------------</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:42.893874500Z</date>
+  <millis>1690717062893</millis>
+  <nanos>874500</nanos>
+  <sequence>5</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>avant</method>
+  <thread>1</thread>
+  <message>------------------------------------------------------------</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:42.893874500Z</date>
+  <millis>1690717062893</millis>
+  <nanos>874500</nanos>
+  <sequence>6</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>avant</method>
+  <thread>1</thread>
+  <message>Avant l'exécution de la methode Compte metier.MetierBanqueImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:42.894875700Z</date>
+  <millis>1690717062894</millis>
+  <nanos>875700</nanos>
+  <sequence>7</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>pres</method>
+  <thread>1</thread>
+  <message>Après l'exécution de la methode Compte metier.MetierBanqueImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:42.896876500Z</date>
+  <millis>1690717062896</millis>
+  <nanos>876500</nanos>
+  <sequence>8</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>pres</method>
+  <thread>1</thread>
+  <message>Durrée d'exécution de la méthode 4</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:42.896876500Z</date>
+  <millis>1690717062896</millis>
+  <nanos>876500</nanos>
+  <sequence>9</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>pres</method>
+  <thread>1</thread>
+  <message>------------------------------------------------------------</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:49.132007600Z</date>
+  <millis>1690717069132</millis>
+  <nanos>7600</nanos>
+  <sequence>10</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>avant</method>
+  <thread>1</thread>
+  <message>------------------------------------------------------------</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:49.133005800Z</date>
+  <millis>1690717069133</millis>
+  <nanos>5800</nanos>
+  <sequence>11</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>avant</method>
+  <thread>1</thread>
+  <message>Avant l'exécution de la methode Compte metier.MetierBanqueImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:49.135008100Z</date>
+  <millis>1690717069135</millis>
+  <nanos>8100</nanos>
+  <sequence>12</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>pres</method>
+  <thread>1</thread>
+  <message>Après l'exécution de la methode Compte metier.MetierBanqueImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:49.136008300Z</date>
+  <millis>1690717069136</millis>
+  <nanos>8300</nanos>
+  <sequence>13</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>pres</method>
+  <thread>1</thread>
+  <message>Durrée d'exécution de la méthode 4</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:49.136008300Z</date>
+  <millis>1690717069136</millis>
+  <nanos>8300</nanos>
+  <sequence>14</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>pres</method>
+  <thread>1</thread>
+  <message>------------------------------------------------------------</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:49.137006500Z</date>
+  <millis>1690717069137</millis>
+  <nanos>6500</nanos>
+  <sequence>15</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>avant</method>
+  <thread>1</thread>
+  <message>------------------------------------------------------------</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:49.138025700Z</date>
+  <millis>1690717069138</millis>
+  <nanos>25700</nanos>
+  <sequence>16</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>avant</method>
+  <thread>1</thread>
+  <message>Avant l'exécution de la methode void metier.MetierBanqueImpl.retirer(Long, double)</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:49.139010700Z</date>
+  <millis>1690717069139</millis>
+  <nanos>10700</nanos>
+  <sequence>17</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>pres</method>
+  <thread>1</thread>
+  <message>Après l'exécution de la methode void metier.MetierBanqueImpl.retirer(Long, double)</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:49.140008500Z</date>
+  <millis>1690717069140</millis>
+  <nanos>8500</nanos>
+  <sequence>18</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>pres</method>
+  <thread>1</thread>
+  <message>Durrée d'exécution de la méthode 3</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:49.140008500Z</date>
+  <millis>1690717069140</millis>
+  <nanos>8500</nanos>
+  <sequence>19</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>pres</method>
+  <thread>1</thread>
+  <message>------------------------------------------------------------</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:49.141006300Z</date>
+  <millis>1690717069141</millis>
+  <nanos>6300</nanos>
+  <sequence>20</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>avant</method>
+  <thread>1</thread>
+  <message>------------------------------------------------------------</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:49.142008400Z</date>
+  <millis>1690717069142</millis>
+  <nanos>8400</nanos>
+  <sequence>21</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>avant</method>
+  <thread>1</thread>
+  <message>Avant l'exécution de la methode Compte metier.MetierBanqueImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:49.142008400Z</date>
+  <millis>1690717069142</millis>
+  <nanos>8400</nanos>
+  <sequence>22</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>pres</method>
+  <thread>1</thread>
+  <message>Après l'exécution de la methode Compte metier.MetierBanqueImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:49.143008100Z</date>
+  <millis>1690717069143</millis>
+  <nanos>8100</nanos>
+  <sequence>23</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>pres</method>
+  <thread>1</thread>
+  <message>Durrée d'exécution de la méthode 2</message>
+</record>
+<record>
+  <date>2023-07-30T11:37:49.146010200Z</date>
+  <millis>1690717069146</millis>
+  <nanos>10200</nanos>
+  <sequence>24</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>pres</method>
+  <thread>1</thread>
+  <message>------------------------------------------------------------</message>
+</record>
+</log>

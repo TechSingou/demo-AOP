@@ -1,0 +1,25 @@
+-Xajruntimetarget:1.5
+-Xlint:ignore
+-1.8
+-encoding
+UTF-8
+-showWeaveInfo
+-source
+1.8
+-target
+1.8
+-verbose
+-classpath
+C:\Users\singo\.m2\repository\org\aspectj\aspectjweaver\1.9.19\aspectjweaver-1.9.19.jar;C:\Users\singo\Documents\Software ING\Tools and Frameworks\Spring ecosystem\Core\Demos\demo-aop1\target\classes
+-d
+C:\Users\singo\Documents\Software ING\Tools and Frameworks\Spring ecosystem\Core\Demos\demo-aop1\target\classes
+-s
+C:\Users\singo\Documents\Software ING\Tools and Frameworks\Spring ecosystem\Core\Demos\demo-aop1\target\generated-sources\aspectj-maven-plugin
+C:\Users\singo\Documents\Software ING\Tools and Frameworks\Spring ecosystem\Core\Demos\demo-aop1\src\main\java\aspects\FirstAspect.java
+C:\Users\singo\Documents\Software ING\Tools and Frameworks\Spring ecosystem\Core\Demos\demo-aop1\src\main\java\aspects\LoggingAspect.java
+C:\Users\singo\Documents\Software ING\Tools and Frameworks\Spring ecosystem\Core\Demos\demo-aop1\src\main\java\aspects\PatchRetraitAspect.java
+C:\Users\singo\Documents\Software ING\Tools and Frameworks\Spring ecosystem\Core\Demos\demo-aop1\src\main\java\aspects\SecurityAspect.java
+C:\Users\singo\Documents\Software ING\Tools and Frameworks\Spring ecosystem\Core\Demos\demo-aop1\src\main\java\metier\Compte.java
+C:\Users\singo\Documents\Software ING\Tools and Frameworks\Spring ecosystem\Core\Demos\demo-aop1\src\main\java\metier\IMetierBanque.java
+C:\Users\singo\Documents\Software ING\Tools and Frameworks\Spring ecosystem\Core\Demos\demo-aop1\src\main\java\metier\MetierBanqueImpl.java
+C:\Users\singo\Documents\Software ING\Tools and Frameworks\Spring ecosystem\Core\Demos\demo-aop1\src\main\java\test\AppTest.java

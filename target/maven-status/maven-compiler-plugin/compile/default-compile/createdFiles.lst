@@ -1,0 +1,8 @@
+aspects\SecurityAspect.class
+aspects\LoggingAspect.class
+test\AppTest.class
+aspects\FirstAspect.class
+metier\MetierBanqueImpl.class
+aspects\PatchRetraitAspect.class
+metier\Compte.class
+metier\IMetierBanque.class

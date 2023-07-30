@@ -1,0 +1,15 @@
+Cette application est un demo de la programmation orienté aspect avec le tisseur d'aspect ASPECTJ.
+
+Il s'agit d'un simple projet java maven qui permet un gestion simple des comptes bancaires en mémoire dans une
+collection de type map. Chaque compte est défini par "code" et son "solde".
+
+ Les exigences fonctionnelle de l'application sont:
+- Ajouter un compte
+- Consulter un compte
+- Retirer un montant d'un compte
+- Verser un montant d'un compte
+
+Les exigence techniques sont implémentés sous formes d'aspects comme suit :
+- Un aspect pour la journalisation des appels de toutes les méthodes en affichant la durée d'exécution de chaque méthode
+- Un aspect pour controler le motant du retrait
+- Un aspect pour sécuriser l'application
